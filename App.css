@@ -1,0 +1,15 @@
+.app{
+    background-color: #f1f2f5;
+    height: 800vh;
+}
+.app_body{
+    display: flex;
+    
+
+}
+.app_post{
+    display: flex;
+}
+.app_feed{
+    display: flex;
+}
